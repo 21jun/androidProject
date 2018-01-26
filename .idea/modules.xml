@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\leewonjun\Documents\dev\projectClone\CurrencyChange.iml" filepath="C:\Users\leewonjun\Documents\dev\projectClone\CurrencyChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyChange.iml" filepath="$PROJECT_DIR$/CurrencyChange.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\leewonjun\Documents\dev\projectClone\app\app.iml" filepath="C:\Users\leewonjun\Documents\dev\projectClone\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projectClone.iml" filepath="$PROJECT_DIR$/projectClone.iml" />
     </modules>
   </component>
 </project>
