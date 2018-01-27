@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/21junSourcetree.iml" filepath="$PROJECT_DIR$/21junSourcetree.iml" />
+>>>>>>> d6baf96ddaf54169cf36bc15edb28fe2c6cd343b
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project0126.iml" filepath="$PROJECT_DIR$/project0126.iml" />
     </modules>
   </component>
 </project>
