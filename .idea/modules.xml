@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/21junSourcetree.iml" filepath="$PROJECT_DIR$/21junSourcetree.iml" />
-      <module fileurl="file://C:\Users\parksoyeon\Desktop\21junSourcetree\CurrencyChange.iml" filepath="C:\Users\parksoyeon\Desktop\21junSourcetree\CurrencyChange.iml" />
-=======
->>>>>>> 601138dbfd79517c3b5ed938077ebafa592dffff
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project0126.iml" filepath="$PROJECT_DIR$/project0126.iml" />
     </modules>
   </component>
 </project>
